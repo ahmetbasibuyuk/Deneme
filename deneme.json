@@ -1,10 +1,18 @@
-{
-    "soru1": "Mevsimler hangileridir",
-    "cevap1": "Yaz,kış,ilkbahar,sonbahar",
-    "soru2": "MMevsimler hangileridir",
-    "cevap2": "YYaz,kış,ilkbahar,sonbahar",
-    "soru3": "MMMevsimler hangileridir",
-    "cevap3": "YYYaz,kış,ilkbahar,sonbahar",
-    "soru4": "MMMMevsimler hangileridir",
-    "cevap4": "YYYYaz,kış,ilkbahar,sonbahar"
-}
+[
+    {
+        "soru": "Mevsimler hangileridir",
+        "cevap": "Yaz,kış,ilkbahar,sonbahar"
+    },
+    {
+        "soru": "MMevsimler hangileridir",
+        "cevap": "YYaz,kış,ilkbahar,sonbahar"
+    },
+    {
+        "soru": "MMMevsimler hangileridir",
+        "cevap": "YYYaz,kış,ilkbahar,sonbahar"
+    },
+    {
+        "soru4": "MMMMevsimler hangileridir",
+        "cevap4": "YYYYaz,kış,ilkbahar,sonbahar"
+    }
+]
