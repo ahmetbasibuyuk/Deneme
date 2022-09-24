@@ -14,5 +14,9 @@
     {
         "soru": "MMMMevsimler hangileridir",
         "cevap": "YYYYaz,kış,ilkbahar,sonbahar"
+    },
+    {
+        "soru": "Deneme mesajı",
+        "cevap": "deneme mesajı"
     }
 ]
