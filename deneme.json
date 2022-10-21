@@ -1,16 +1,16 @@
 [
     {
-        "id": 1,
+        "ad": 1,
         "soru": "Mevsimler hangileridir",
         "cevap": "Yaz,kış,ilkbahar,sonbahar"
     },
     {
-        "id": 2,
+        "ad": 2,
         "soru": "MMevsimler hangileridir",
         "cevap": "YYaz,kış,ilkbahar,sonbahar"
     },
     {
-        "id": 3,
+        "ad": 3,
         "soru": "MMMevsimler hangileridir",
         "cevap": "YYYaz,kış,ilkbahar,sonbahar"
     },
